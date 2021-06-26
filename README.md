@@ -14,6 +14,7 @@ Decorative border around Mushaf
 
 ![preview-dark](image/preview-dark.png)
 
-## Used on these articles:
+## Used on these places:
 
 - https://hassaanmv.com/post/waleed-and-quran/
+- https://hadithmv.github.io/books/quran.html
